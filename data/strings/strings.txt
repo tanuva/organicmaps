@@ -5661,6 +5661,14 @@
     zh-Hans = 更新地图
     zh-Hant = 更新地圖
 
+  [google_play_services]
+    comment = Preference title
+    tags = android
+    en = Google Play Services
+    be = Сэрвісы Google Play
+    ru = Сервисы Google Play
+    uk = Сервіси Google Play
+
   [pref_use_google_play]
     comment = Preference text
     tags = android
